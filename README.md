@@ -1,5 +1,5 @@
 # git-practice
 this is my github practice
 <br>
-Author name - Kavya Aggarwal
+Author name - Kavya Aggarwal (software engineer)
 
